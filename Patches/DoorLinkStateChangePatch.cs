@@ -1,4 +1,4 @@
-﻿using Aki.Reflection.Patching;
+﻿using StayInTarkov;
 using EFT.Interactive;
 using HarmonyLib;
 using System.Reflection;

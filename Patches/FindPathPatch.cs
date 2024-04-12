@@ -1,11 +1,12 @@
-﻿using Aki.Reflection.Patching;
-using Aki.Reflection.Utils;
+﻿using StayInTarkov;
 using HarmonyLib;
 using System;
 using System.Linq;
 using System.Reflection;
 using UnityEngine;
 using UnityEngine.AI;
+
+using PatchConstants = StayInTarkov.StayInTarkovHelperConstants;
 
 namespace DrakiaXYZ.Waypoints.Patches
 {
