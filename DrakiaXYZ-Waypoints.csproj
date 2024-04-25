@@ -38,15 +38,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>$(ManagedAssembliesPath)\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="aki-custom">
-      <HintPath>$(ManagedAssembliesPath)\aki-custom.dll</HintPath>
-    </Reference>
-    <Reference Include="Aki.Reflection">
-      <HintPath>$(ManagedAssembliesPath)\Aki.Reflection.dll</HintPath>
-    </Reference>
-    <Reference Include="aki_PrePatch">
-      <HintPath>..\..\BepInEx\patchers\aki_PrePatch.dll</HintPath>
-    </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>$(ManagedAssembliesPath)\Assembly-CSharp.dll</HintPath>
     </Reference>
